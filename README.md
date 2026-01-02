@@ -1,4 +1,5 @@
 # 📊 Ecommerce Sales Analysis Dashboard
+<img width="1255" height="652" alt="dashboard" src="https://github.com/user-attachments/assets/3a13a377-f42e-4e4e-a1aa-249001cfe6c8" />
 
 
 ## 📌 Project Overview
